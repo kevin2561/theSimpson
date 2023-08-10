@@ -1,0 +1,47 @@
+#detalle {
+    padding: 90px 80px;
+    font-size: 20px;
+
+}
+#detalle .caja{
+    display: flex;
+    justify-content: right;
+  
+}
+
+#detalle img {
+    width: 100%;
+    height: 550px;
+    max-width: 300px;
+
+    padding: 0px 20px;
+    background-color: aliceblue;
+    cursor: pointer;
+    margin: auto;
+}
+#detalle img:hover {
+
+    transform: scale(1.1);
+    transition: all 0s;
+}
+#detalle h2 {
+    margin: 50px auto;
+}
+
+#detalle table {
+    margin: 50px auto;
+}
+.modal-body {
+    position: relative;
+    height: auto;
+    max-height: auto;
+    padding: 15px 0;
+
+
+}
+
+.card-img, .card-img-top {
+    padding: 10px 0;
+}
+
+

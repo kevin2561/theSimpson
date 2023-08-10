@@ -1,0 +1,29 @@
+.user {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.crear-cuenta {
+    text-align: right;
+    color: #0067b8;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 0px 10px;
+    padding: 10px 10px;
+}
+
+.form-control {
+    font-size: 1.1rem;
+}
+
+.modo .modoOscuro {
+    margin: auto 0px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.oscuro
+{
+    background-color: black !important;
+    color: #fff !important;
+}

@@ -1,0 +1,41 @@
+#historia {
+
+    width: 100%;
+    height: 100%;
+    padding: 90px 80px;
+}
+
+#historia h1 {
+    font-size: 46px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: #000000;
+
+}
+
+#historia img {
+    width: 100%;
+    height: 100%;
+    max-width: 640px;
+
+}
+
+.card {
+    --bs-card-border-width: 0px;
+    --bs-card-bg: unset;
+}
+
+#historia .historia2 {
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    margin-top: 20px;
+
+}
+
+.historia2 h5 {
+    font-size: 40px;
+    font-weight: 500;
+
+}

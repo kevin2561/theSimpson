@@ -1,0 +1,21 @@
+#evolucion {
+    padding: 90px 80px;
+}
+#evolucion h1  {
+margin-bottom: 50px;
+}
+#evolucion .card{
+    text-align: center;
+    color: #676770;
+    font-size: 16px;
+    line-height: 1.4667em;
+    font-weight: 400;
+    height: 100%;
+}
+
+#evolucion img{
+    width: 100% !important;;
+    height: 100% !important;;
+    max-height: 300px !important;
+}
+

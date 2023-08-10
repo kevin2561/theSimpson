@@ -1,0 +1,25 @@
+#tabla {
+    margin-top: 10px;
+}
+
+#tabla td {
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+    max-width: 350px;
+}
+
+#episodios .table>:not(caption)>*>* {
+    border: 1px solid #000;
+
+
+}
+
+.selecTem {
+    display: flex;
+    justify-content: center;
+}

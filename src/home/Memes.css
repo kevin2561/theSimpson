@@ -1,0 +1,14 @@
+.padded{
+    padding: 90px 80px;
+}
+#memes h1{
+    margin-bottom: 50px;
+}
+#memes .card img {
+    width: 100%;
+    max-width: 800px;
+    height: 350px;
+}
+#memes h5{
+    text-transform: uppercase;
+}
